@@ -1,4 +1,4 @@
-# FastAPI-Database
+# 📌FastAPI-Database
 
 A simple FastAPI application demonstrating database integration in Python using FastAPI and SQL (e.g., SQLite or SQLAlchemy).  
 This repo contains a minimal backend API with CRUD operations connected to a database.
