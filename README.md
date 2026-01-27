@@ -7,11 +7,10 @@ This repo contains a minimal backend API with CRUD operations connected to a dat
 
 This project shows how to build a **REST API with FastAPI** that connects to a database for persistent storage. It includes:
 
-- FastAPI for building the API. :contentReference[oaicite:0]{index=0}
+- FastAPI for building the API. 
 - Database integration (likely SQLAlchemy or SQLite).
 - Example endpoints for creating and retrieving data.
 - Dependency injection for database sessions.
-- Automatic API documentation with Swagger UI.
 
 ---
 
@@ -51,4 +50,24 @@ FastAPI-Database/
 ├── requirements.txt           
 └── README.md
 
+
+### 🛠️ Running the Application 
+``` bash
+ uvicorn.run("database_fastapi:app", host="127.0.0.1", port=8000, reload=True)
+```
+
+### 🙌 Acknowledgement
+Built with FastAPI — a modern, fast (high-performance) web framework for API development in Python.
+
+
+<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
+  <p>Happy Coding 🐍✨</p></b>
+<br>
+👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
+📩 Email   : droliasakshi601@gmail.com <br>
+🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
+</br>
+
+<b><h5>Author</h5></b>
+<h6><b>Sakshi Drolia</b></h6>
 
