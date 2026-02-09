@@ -14,7 +14,7 @@ This project shows how to build a **REST API with FastAPI** that connects to a d
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 ### Prerequisites
 
